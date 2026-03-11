@@ -52,4 +52,4 @@ async def resume(ctx):
 async def skip(ctx):
     ctx.voice_client.stop()
 
-bot.run("YOUR_BOT_TOKEN")
+bot.run("MTQ4MTI3NDE0MzA1MDgyNTgzMQ.G9xLnI.mwFRzRz9JMDToQnGhMLYhbTFOpKQL67YBgXR0A")
